@@ -825,8 +825,12 @@ textarea::-ms-input-placeholder
 
 
 
-
-
+table, th, td {
+  padding: 50px;
+}
+table {
+  border-spacing: 0px;
+}
 
 
 
